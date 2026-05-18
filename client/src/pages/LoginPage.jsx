@@ -68,11 +68,11 @@ export default function LoginPage() {
             </Button>
           </form>
 
-          <div className="mt-6 p-4 bg-slate-50 rounded-lg text-xs text-slate-500 space-y-1">
+          {/* <div className="mt-6 p-4 bg-slate-50 rounded-lg text-xs text-slate-500 space-y-1">
             <p className="font-medium text-slate-600">Demo credentials:</p>
             <p>Admin: admin@crm.com / Password123!</p>
             <p>Sales: sarah@crm.com / Password123!</p>
-          </div>
+          </div> */}
 
           <p className="text-center text-sm text-slate-500 mt-4">
             No account?{' '}

@@ -55,7 +55,6 @@ export default function SettingsPage() {
         <h3 className="text-sm font-semibold text-slate-700 mb-3">Application Info</h3>
         <div className="space-y-1 text-sm text-slate-500">
           <p>SmartCRM v1.0.0</p>
-          <p>PERN Stack: PostgreSQL · Express · React · Node.js</p>
           <p>Built for lead & sales pipeline management</p>
         </div>
       </Card>
